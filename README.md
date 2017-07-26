@@ -1,2 +1,2 @@
 # training-oop-with-php
-This repo contains examples of OOP implemented PHP.
+This repo contains OOP implemented examples of  PHP.
